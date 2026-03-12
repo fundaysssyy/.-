@@ -1,0 +1,8 @@
+{
+  "name": "fakeml-generator",
+  "version": "1.0.0",
+  "description": "Fake ML Profile Generator",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
